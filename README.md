@@ -58,6 +58,7 @@ You can try the deployed version here:
 ## 🧾 How to Run Locally
 
 ```bash
+
 # Clone the repo
 git clone https://github.com/Kajalpandey230/docu_help.git
 cd docu_help/assignment
@@ -73,5 +74,16 @@ pip install -r requirements.txt
 # Run Streamlit app
 streamlit run streamlit_app.py
 
+```
+
 <img width="1898" height="792" alt="image" src="https://github.com/user-attachments/assets/d53731ba-3777-48a2-a6fd-dfb00680ef6f" />
 
+🌈 Future improvements
+
+Add drag-and-drop interface
+
+Support for more document types (receipts, ID cards, etc.)
+
+Add authentication and user history
+
+Docker container / API version for enterprise
